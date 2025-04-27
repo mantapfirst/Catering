@@ -31,8 +31,7 @@
                 android:text="Welcome!"
                 android:textColor="@color/black"
                 android:textSize="32sp"
-                android:fontFamily="@res/drawable/poppins/poppins_bold"
-                android:textStyle="bold" />
+                android:fontFamily="@font/poppins_bold" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -40,7 +39,7 @@
                 android:text="Sign Up to your account."
                 android:textColor="@color/black"
                 android:textSize="16sp"
-                android:fontFamily="@res/drawable/poppins/poppins_regular"/>
+                android:fontFamily="@font/poppins_medium"/>
 
         </androidx.appcompat.widget.LinearLayoutCompat>
 
@@ -71,7 +70,7 @@
                 android:textColor="@color/black"
                 android:textColorHint="@color/black"
                 android:textSize="18sp"
-                android:fontFamily="@res/drawable/poppins/poppins_regular"/>
+                android:fontFamily="@font/poppins_semibold"/>
 
         </com.google.android.material.textfield.TextInputLayout>
 
@@ -102,7 +101,7 @@
                 android:textColor="@color/black"
                 android:textColorHint="@color/black"
                 android:textSize="18sp"
-                android:fontFamily="@res/drawable/poppins/poppins_regular"/>
+                android:fontFamily="@font/poppins_semibold"/>
 
         </com.google.android.material.textfield.TextInputLayout>
 
@@ -135,7 +134,7 @@
                 android:textColor="@color/black"
                 android:textColorHint="@color/black"
                 android:textSize="18sp"
-                android:fontFamily="@res/drawable/poppins/poppins_regular"/>
+                android:fontFamily="@font/poppins_semibold"/>
 
         </com.google.android.material.textfield.TextInputLayout>
 
@@ -154,8 +153,7 @@
         android:textAllCaps="false"
         android:textColor="@color/white"
         android:textSize="16sp"
-        android:fontFamily="@res/drawable/poppins/poppins_bold"
-        android:textStyle="bold"
+        android:fontFamily="@font/poppins_medium"
         android:theme="@style/Theme.MaterialComponents"
         app:backgroundTint="@color/primary"
         app:cornerRadius="50dp"
@@ -170,6 +168,6 @@
         android:text="hungry? let's continue with these"
         android:textColor="@color/black"
         android:textSize="14sp"
-        android:fontFamily="@res/drawable/poppins/poppins_regular"/>
+        android:fontFamily="@font/poppins_medium"/>
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

@@ -39,8 +39,7 @@
                     android:text="Nama Makanan"
                     android:textColor="@color/black"
                     android:textSize="16sp"
-                    android:fontFamily="@res/drawable/poppins/poppins_bold"
-                    android:textStyle="bold" />
+                    android:fontFamily="@font/poppins_bold" />
 
                 <TextView
                     android:id="@+id/tvPrice"
@@ -51,8 +50,7 @@
                     android:text="harga Makanan"
                     android:textColor="@color/black"
                     android:textSize="16sp"
-                    android:fontFamily="@res/drawable/poppins/poppins_bold"
-                    android:textStyle="bold" />
+                    android:fontFamily="@font/poppins_bold"/>
 
             </LinearLayout>
 
@@ -63,8 +61,7 @@
                 android:text="Jumlah Makanan"
                 android:textColor="@color/black"
                 android:textSize="12sp"
-                android:fontFamily="@res/drawable/poppins/poppins_bold"
-                android:textStyle="bold" />
+                android:fontFamily="@font/poppins_semibold"/>
 
             <TextView
                 android:id="@+id/tvStatus"
@@ -74,8 +71,7 @@
                 android:text="Makanan sudah diantar"
                 android:textColor="@color/black"
                 android:textSize="12sp"
-                android:fontFamily="@res/drawable/poppins/poppins_bold"
-                android:textStyle="bold" />
+                android:fontFamily="@font/poppins_semibold"/>
 
             <TextView
                 android:id="@+id/tvDate"
@@ -101,8 +97,7 @@
         android:textAllCaps="false"
         android:textColor="@color/primary"
         android:textSize="12sp"
-        android:fontFamily="@res/drawable/poppins/poppins_bold"
-        android:textStyle="bold"
+        android:fontFamily="@font/poppins_semibold"
         android:theme="@style/Theme.MaterialComponents"
         app:cornerRadius="50dp"
         app:elevation="5dp"

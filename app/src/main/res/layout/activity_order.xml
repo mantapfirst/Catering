@@ -65,7 +65,7 @@
                         android:text="Pastikan alamat penerima sudah benar ya!"
                         android:textColor="@android:color/white"
                         android:textSize="14sp"
-                        android:fontFamily="@res/drawable/poppins/poppins_bold"
+                        android:fontFamily="@font/poppins_semibold"
                         android:textStyle="bold" />
 
                 </RelativeLayout>
@@ -100,15 +100,14 @@
                             android:text="Harga tertera untuk 1 porsi"
                             android:textColor="@android:color/black"
                             android:textSize="18sp"
-                            android:fontFamily="@res/drawable/poppins/poppins_bold"
-                            android:textStyle="bold" />
+                            android:fontFamily="@font/poppins_semibold" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Pesan Antar - Estimasi tiba 25 min"
                             android:textColor="@android:color/black"
-                            android:fontFamily="@res/drawable/poppins/poppins_bold"
+                            android:fontFamily="@font/poppins_medium"
                             android:textSize="12sp" />
 
                     </LinearLayout>
@@ -150,7 +149,7 @@
                 android:text="0 items"
                 android:textColor="@color/primary"
                 android:textSize="16sp"
-                android:fontFamily="@res/drawable/poppins/poppins_bold"
+                android:fontFamily="@font/poppins_bold"
                 android:textStyle="bold" />
 
             <TextView
@@ -160,7 +159,8 @@
                 android:layout_weight="1"
                 android:gravity="end"
                 android:text="Rp 0"
-                android:textColor="@color/primary" />
+                android:textColor="@color/primary"
+                android:fontFamily="@font/poppins_bold"/>
 
         </LinearLayout>
 
@@ -177,7 +177,7 @@
             android:textAllCaps="false"
             android:textColor="@color/white"
             android:textSize="16sp"
-            android:fontFamily="@res/drawable/poppins/poppins_bold"
+            android:fontFamily="@font/poppins_semibold"
             android:textStyle="bold"
             android:theme="@style/Theme.MaterialComponents"
             app:backgroundTint="@color/primary"

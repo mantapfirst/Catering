@@ -48,8 +48,7 @@
                             android:text="Paket 1"
                             android:textColor="@color/black"
                             android:textSize="16sp"
-                            android:fontFamily="@res/drawable/poppins/poppins_bold"
-                            android:textStyle="bold" />
+                            android:fontFamily="@font/poppins_bold"/>
 
                         <LinearLayout
                             android:layout_width="match_parent"
@@ -61,7 +60,7 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:text="Rp 21.000"
-                                android:fontFamily="@res/drawable/poppins/poppins_regular"
+                                android:fontFamily="@font/poppins_regular"
                                 android:textColor="@color/primary" />
 
                             <TextView
@@ -69,7 +68,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_marginStart="8dp"
                                 android:text="Rp 10.500"
-                                android:fontFamily="@res/drawable/poppins/poppins_regular"
+                                android:fontFamily="@font/poppins_regular"
                                 android:textColor="@color/primary" />
 
                         </LinearLayout>
@@ -100,8 +99,7 @@
                             android:text="0"
                             android:textColor="@color/black"
                             android:textSize="16sp"
-                            android:fontFamily="@res/drawable/poppins/poppins_bold"
-                            android:textStyle="bold" />
+                            android:fontFamily="@font/poppins_bold" />
 
                         <ImageView
                             android:id="@+id/imageAdd1"
@@ -138,7 +136,7 @@
                     android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
                     android:textColor="@color/white"
                     android:textSize="12sp"
-                    android:fontFamily="@res/drawable/poppins/poppins_regular"/>
+                    android:fontFamily="@font/poppins_medium"/>
 
             </LinearLayout>
 
@@ -181,7 +179,7 @@
                             android:text="Paket 2"
                             android:textColor="@color/black"
                             android:textSize="16sp"
-                            android:fontFamily="@res/drawable/poppins/poppins_bold"
+                            android:fontFamily="@font/poppins_bold"
                             android:textStyle="bold" />
 
                         <TextView
@@ -216,8 +214,7 @@
                             android:text="0"
                             android:textColor="@color/black"
                             android:textSize="16sp"
-                            android:fontFamily="@res/drawable/poppins/poppins_bold"
-                            android:textStyle="bold" />
+                            android:fontFamily="@font/poppins_bold" />
 
                         <ImageView
                             android:id="@+id/imageAdd2"
@@ -278,14 +275,13 @@
                             android:text="Paket 3"
                             android:textColor="@color/black"
                             android:textSize="16sp"
-                            android:fontFamily="@res/drawable/poppins/poppins_bold"
-                            android:textStyle="bold" />
+                            android:fontFamily="@font/poppins_bold"/>
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Rp 23.700"
-                            android:fontFamily="@res/drawable/poppins/poppins_regular"
+                            android:fontFamily="@font/poppins_regular"
                             android:textColor="@color/primary" />
 
                     </LinearLayout>
@@ -314,8 +310,7 @@
                             android:text="0"
                             android:textColor="@color/black"
                             android:textSize="16sp"
-                            android:fontFamily="@res/drawable/poppins/poppins_bold"
-                            android:textStyle="bold" />
+                            android:fontFamily="@font/poppins_bold"/>
 
                         <ImageView
                             android:id="@+id/imageAdd3"
@@ -369,14 +364,13 @@
                             android:text="Paket 4"
                             android:textColor="@color/black"
                             android:textSize="16sp"
-                            android:fontFamily="@res/drawable/poppins/poppins_bold"
-                            android:textStyle="bold" />
+                            android:fontFamily="@font/poppins_bold"/>
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Rp 22.500"
-                            android:fontFamily="@res/drawable/poppins/poppins_regular"
+                            android:fontFamily="@font/poppins_regular"
                             android:textColor="@color/primary" />
 
                     </LinearLayout>
@@ -405,7 +399,7 @@
                             android:text="0"
                             android:textColor="@color/black"
                             android:textSize="16sp"
-                            android:fontFamily="@res/drawable/poppins/poppins_bold"
+                            android:fontFamily="@font/poppins_bold"
                             android:textStyle="bold" />
 
                         <ImageView
@@ -467,14 +461,13 @@
                             android:text="Paket 5"
                             android:textColor="@color/black"
                             android:textSize="16sp"
-                            android:fontFamily="@res/drawable/poppins/poppins_bold"
-                            android:textStyle="bold" />
+                            android:fontFamily="@font/poppins_bold" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Rp 16.500"
-                            android:fontFamily="@res/drawable/poppins/poppins_regular"
+                            android:fontFamily="@font/poppins_regular"
                             android:textColor="@color/primary" />
 
                     </LinearLayout>
@@ -503,8 +496,7 @@
                             android:text="0"
                             android:textColor="@color/black"
                             android:textSize="16sp"
-                            android:fontFamily="@res/drawable/poppins/poppins_bold"
-                            android:textStyle="bold" />
+                            android:fontFamily="@font/poppins_bold"/>
 
                         <ImageView
                             android:id="@+id/imageAdd5"
@@ -558,14 +550,13 @@
                             android:text="Paket 6"
                             android:textColor="@color/black"
                             android:textSize="16sp"
-                            android:fontFamily="@res/drawable/poppins/poppins_bold"
-                            android:textStyle="bold" />
+                            android:fontFamily="@font/poppins_bold"/>
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Rp 26.000"
-                            android:fontFamily="@res/drawable/poppins/poppins_regular"
+                            android:fontFamily="@font/poppins_regular"
                             android:textColor="@color/primary" />
 
                     </LinearLayout>
@@ -594,8 +585,7 @@
                             android:text="0"
                             android:textColor="@color/black"
                             android:textSize="16sp"
-                            android:fontFamily="@res/drawable/poppins/poppins_bold"
-                            android:textStyle="bold" />
+                            android:fontFamily="@font/poppins_bold"/>
 
                         <ImageView
                             android:id="@+id/imageAdd6"
