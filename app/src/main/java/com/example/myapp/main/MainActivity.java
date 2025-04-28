@@ -63,6 +63,7 @@ public class MainActivity extends AppCompatActivity {
         rvTrending.setHasFixedSize(true);
     }
 
+
     private void setCategories() {
         modelCategories = new ModelCategories(R.drawable.ic_complete, "Complete Package");
         modelCategoriesList.add(modelCategories);
@@ -121,5 +122,6 @@ public class MainActivity extends AppCompatActivity {
         }
         window.setAttributes(layoutParams);
     }
+
 
 }
